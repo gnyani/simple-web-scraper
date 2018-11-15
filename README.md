@@ -11,3 +11,7 @@ Currently Supported Platforms:
 7. Behance
 8. Pinterest
 9. Vimeo
+
+```cd src/main/python```
+```pip install -r requirements.txt```
+```python socialmediaapi.py```
